@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.2.1)
+  - CocoaAsyncSocket (7.6.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - CocoaAsyncSocket
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CocoaAsyncSocket
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  CocoaAsyncSocket: 694058e7c0ed05a9e217d1b3c7ded962f4180845
+
+PODFILE CHECKSUM: 56f1dd4a3d002487765a3b8660c9c0c0e690a863
+
+COCOAPODS: 1.9.1
